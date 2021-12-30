@@ -18,6 +18,3 @@ some content here
 "quotes"
 
 now with updates more updates
-
-
-extra updates 8 now with vercel PLEASE FIX
